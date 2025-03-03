@@ -3,7 +3,7 @@
 
 
 
-### 📚Alguns dos meus conhecimentos (Relacionados a Software Development):
+### 📚Alguns dos meus conhecimentos (Software Development):
 - Python <img width=15 heigth=15 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
 - JavaScript<img width=15 heigth=15 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img width=15 heigth=15 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />, CSS, HTML
