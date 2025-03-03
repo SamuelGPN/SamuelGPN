@@ -21,14 +21,11 @@
 - https://github.com/SamuelGPN/moradorderua-api.git (Projeto Desenvolvomento de API de Aplicção Web  - Final de Curso)
 
 <a href="https://github.com/SamuelGPN/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SamuelGPN&show_icons=true&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SamuelGPN&show_icons=true&theme=gruvbox" />
 </a>
 <a href="https://github.com/SamuelGPN/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SamuelGPN&show_icons=true&theme=radical&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SamuelGPN&show_icons=true&theme=gruvbox&layout=compact&langs_count=8&card_width=320" />
 </a>
-
-
-
 
 
 
