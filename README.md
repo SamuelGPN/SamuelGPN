@@ -1,5 +1,5 @@
 ## Olá, meu nome é Samuel 👋
-- Atualmente trabalho com desenvolvimento de RPA's (Robotic Processing Automation) e estou cursando o 3º Semestre em Análise e Desenvolvimento de Sistemas.
+- Atualmente trabalho com desenvolvimento de RPA's (Robotic Processing Automation) e estou cursando o 4º Semestre em Análise e Desenvolvimento de Sistemas.
 
 
 
