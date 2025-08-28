@@ -22,7 +22,7 @@
 ## 🎯Alguns Projetos (Públicos): *A maioria dos projetos de RPAs em python estão privados*
 - https://github.com/SamuelGPN/robo-guia-recolhimento.git (Geração de guias FEDTJ - https://www45.bb.com.br/fmc/frm/fw0707314_1.jsp)
 - https://github.com/SamuelGPN/moradorderua-api.git (Projeto Desenvolvomento de API de Aplicção Web  - Final de Curso)
-- https://github.com/SamuelGPN/backEnd-JogoMemoria.git (Projeto Jogo da mémoria Backend) - JAVA <img width=15 heigth=15 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+- https://github.com/SamuelGPN/backEnd-JogoMemoria.git (Projeto Jogo da mémoria Backend - Spring Boot) - JAVA <img width=15 heigth=15 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
           
 - https://github.com/SamuelGPN/jogo-da-memoria.git (Projeto Jogo da mémoria Frontend) - React <img width=15 heigth=15 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
           
