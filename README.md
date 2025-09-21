@@ -28,7 +28,7 @@
           
 
 <a href="https://github.com/SamuelGPN/github-readme-stats">
-  src="https://github-readme-stats.vercel.app/api?username=SamuelGPN&show_icons=true&theme=gruvbox&count_private=true"
+ <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SamuelGPN&show_icons=true&theme=gruvbox&count_private=true" /> </a>  
 </a>
 <a href="https://github.com/SamuelGPN/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SamuelGPN&show_icons=true&theme=gruvbox&layout=compact&langs_count=8&card_width=320" />
